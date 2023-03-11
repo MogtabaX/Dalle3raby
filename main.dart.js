@@ -35585,7 +35585,7 @@ break
 case 2:p=t.N
 o=A.at(["prompt",a,"n",1,"size","256x256"],p,t.K)
 n=A.wI("https://api.openai.com/v1/images/generations")
-p=A.at(["Authorization","Bearer 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","Content-Type","application/json"],p,p)
+p=A.at(["Authorization","Bearer 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","Content-Type","application/json"],p,p)
 s=5
 return A.a2(A.auW(n,B.aI.Ix(o,null),p),$async$pd)
 case 5:m=c
