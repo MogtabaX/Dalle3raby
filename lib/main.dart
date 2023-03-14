@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:translator/translator.dart';
-import 'env.dart';
+import 'envx.dart';
 
 void main(List<String> args) {
   runApp(const MyWidget());
