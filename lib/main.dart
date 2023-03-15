@@ -2,9 +2,10 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:translator/translator.dart';
-import 'envx.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
-void main(List<String> args) {
+Future<void> main() async {
+  await dotenv.load();
   runApp(const MyWidget());
 }
 
@@ -30,7 +31,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   TextEditingController input = TextEditingController();
-  String apikey = key;
+  String apikey = dotenv.env['key'] ?? 'API URL NOT FOUND';
   String url = "https://api.openai.com/v1/images/generations";
   String? image;
   GoogleTranslator translator = GoogleTranslator();

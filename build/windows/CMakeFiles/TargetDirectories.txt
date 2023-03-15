@@ -1,0 +1,10 @@
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/runner/CMakeFiles/dalle_3raby.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/runner/CMakeFiles/ALL_BUILD.dir

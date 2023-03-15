@@ -1,0 +1,10 @@
+^C:\USERS\MOGTABA\DESKTOP\DART EL BART\FLUTTER\DALLE3RABY\DALLE_3RABY\WINDOWS\RUNNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/windows" "-BC:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows" --check-stamp-file "C:/Users/Mogtaba/Desktop/dart el bart/flutter/DALLE3RABY/dalle_3raby/build/windows/runner/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

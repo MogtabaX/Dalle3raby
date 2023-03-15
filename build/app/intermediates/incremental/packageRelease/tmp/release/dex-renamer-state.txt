@@ -1,0 +1,4 @@
+#Sun Mar 12 01:21:58 AST 2023
+base.0=C\:\\Users\\Mogtaba\\Desktop\\dart el bart\\flutter\\DALLE3RABY\\dalle_3raby\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
